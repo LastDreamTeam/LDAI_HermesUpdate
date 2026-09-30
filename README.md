@@ -4,7 +4,7 @@
 
 ## 目标
 
-参照 [LDCodeStyleAgentSkill](https://github.com/LastDreamTeam/LDCodeStyleAgentSkill) 的组织方式，后续建立适用于 LD 舰队的 Hermes 维护技能与新人入队规范，减少不同 Bot、不同服务器之间的知识断层与重复犯错。
+参照 [LDAI_CodeStyleAgentSkill](https://github.com/LastDreamTeam/LDAI_CodeStyleAgentSkill) 的组织方式，后续建立适用于 LD 舰队的 Hermes 维护技能与新人入队规范，减少不同 Bot、不同服务器之间的知识断层与重复犯错。
 
 计划统一整理各服务器维护者及 Bot 的有效经验，包括 Hermes 原生能力、日常维护、故障排查、协作习惯和真实验收方法。经验需有来源、经核实，再成为共同规范，而非直接复制某个 Bot 的整份记忆。
 
